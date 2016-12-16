@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+*.keystore
+*.apk
+res
+xcode
+Untitled-1
+www
+node_modules

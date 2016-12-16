@@ -1,6 +1,7 @@
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
+*.keystore
 *~
 *.sw[mnpcod]
 *.log
@@ -9,6 +10,7 @@
 log.txt
 *.sublime-project
 *.sublime-workspace
+.editorconfig
 .vscode/
 npm-debug.log*
 
@@ -28,12 +30,7 @@ plugins/android.json
 plugins/ios.json
 www/
 $RECYCLE.BIN/
-res/
 
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
-*.apk
-*.keystore
-google-services.json
-GoogleService-Info.plist

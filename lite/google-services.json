@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "342374440778",
+    "firebase_url": "https://firetask-b881c.firebaseio.com",
+    "project_id": "firetask-b881c",
+    "storage_bucket": "firetask-b881c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342374440778:android:e00e17417615c401",
+        "android_client_info": {
+          "package_name": "io.firetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342374440778-nc7m9r8ljid2rqnp2dkc7itrn3ascfu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPGloeKm8G4WhePEyj4tJcX6zYmIWvPlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342374440778-sgctbjjddpcm86v1mnp24kp18kr8t80u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.firetask"
+              }
+            },
+            {
+              "client_id": "342374440778-nc7m9r8ljid2rqnp2dkc7itrn3ascfu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342374440778:android:ca4fc91e89ebce01",
+        "android_client_info": {
+          "package_name": "io.firetask.lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342374440778-nc7m9r8ljid2rqnp2dkc7itrn3ascfu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPGloeKm8G4WhePEyj4tJcX6zYmIWvPlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342374440778-sgctbjjddpcm86v1mnp24kp18kr8t80u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.firetask"
+              }
+            },
+            {
+              "client_id": "342374440778-nc7m9r8ljid2rqnp2dkc7itrn3ascfu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
