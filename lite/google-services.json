@@ -17,6 +17,14 @@
         {
           "client_id": "342374440778-nc7m9r8ljid2rqnp2dkc7itrn3ascfu6.apps.googleusercontent.com",
           "client_type": 3
+        },
+        {
+          "client_id": "342374440778-brmkifebuc8so8a0qcg5tqg7oiome1n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.firetask.lite",
+            "certificate_hash": "491D8B3F8CC31680077F539D2FB6A1767C1B384C"
+          }
         }
       ],
       "api_key": [
@@ -32,15 +40,15 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "342374440778-sgctbjjddpcm86v1mnp24kp18kr8t80u.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "io.firetask"
-              }
-            },
-            {
               "client_id": "342374440778-nc7m9r8ljid2rqnp2dkc7itrn3ascfu6.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "342374440778-oj45ajb8cbpd2lptoudck96qhqd84v5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.firetask.lite"
+              }
             }
           ]
         },
@@ -75,15 +83,15 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "342374440778-sgctbjjddpcm86v1mnp24kp18kr8t80u.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "io.firetask"
-              }
-            },
-            {
               "client_id": "342374440778-nc7m9r8ljid2rqnp2dkc7itrn3ascfu6.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "342374440778-oj45ajb8cbpd2lptoudck96qhqd84v5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.firetask.lite"
+              }
             }
           ]
         },
