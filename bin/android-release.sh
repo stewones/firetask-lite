@@ -1,2 +1,0 @@
-# build and zipalign for android
-cd ../ionic && cordova plugin rm cordova-plugin-console && cordova build --release android && cordova plugin add cordova-plugin-console && cp platforms/android/build/outputs/apk/android-release-unsigned.apk android-release-unsigned.apk && jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore firetask.keystore android-release-unsigned.apk firetask && rm -rf firetask.apk && zipalign -v 4 android-release-unsigned.apk firetask.apk
