@@ -6,7 +6,8 @@
   "scripts": {
     "ionic:build": "ionic-app-scripts build",
     "ionic:serve": "ionic-app-scripts serve",
-    "release": "../bin/android-release-lite.sh"
+    "release:envato": "../bin/release-envato.sh",
+    "release:android": "../bin/release-android.sh"
   },
   "dependencies": {
     "@angular/common": "2.2.1",
