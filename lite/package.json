@@ -1,7 +1,7 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "firetask-lite",
+  "author": "Firetask",
+  "homepage": "https://firetask.io/",
   "private": true,
   "scripts": {
     "ionic:build": "ionic-app-scripts build",

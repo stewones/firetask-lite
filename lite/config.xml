@@ -2,7 +2,7 @@
 <widget id="io.firetask.lite" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Firetask Lite</name>
   <description>An awesome Ionic 2 + Firebase App</description>
-  <author email="hi@ionicframework" href="https://stewan.io/">Stewan Pacheco</author>
+  <author email="hi@st1s.io" href="https://firetask.io/">Firetask</author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-intent href="http://*/*"/>
