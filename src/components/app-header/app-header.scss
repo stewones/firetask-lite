@@ -1,0 +1,18 @@
+app-header {
+    img {
+        max-width: 110px;
+        padding-top: 16px;
+    }
+
+    .toolbar {
+        min-height: 66px;
+    }
+}
+
+.platform-ios app-header .header .toolbar {
+    min-height: 115px;
+
+    img {
+        max-width: 90px;
+    }
+}
