@@ -1,0 +1,8 @@
+{
+  "name": "firetask-lite",
+  "app_id": "577d43c9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

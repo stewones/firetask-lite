@@ -1,0 +1,45 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      About
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <ion-list>
+
+    <ion-list-header style="border-top: 0;">Layout based on </ion-list-header>
+    <ion-item>
+      <ion-icon name="ios-create-outline" item-left></ion-icon>
+      <a (click)="goTo('http://todomvc.com')">TodoMVC</a>
+    </ion-item>
+
+    <ion-list-header>Written on top of</ion-list-header>
+    <ion-item>
+      <ion-icon name="ios-ionic-outline" item-left></ion-icon>
+      <a (click)="goTo('https://ionicframework.com/')">Ionic Framework</a>
+    </ion-item>
+
+    <ion-list-header>Data persistence by</ion-list-header>
+    <ion-item>
+      <ion-icon name="ios-cloud-done-outline" item-left></ion-icon>
+      <a (click)="goTo('https://firebase.google.com')">Firebase</a>
+    </ion-item>
+
+    <ion-list-header>Created by</ion-list-header>
+    <ion-item>
+      <ion-icon name="ios-hammer-outline" item-left></ion-icon>
+      <a (click)="goTo('https://stewan.io')">Stewan Pacheco</a>
+    </ion-item>
+
+    <ion-list-header>Wants more?</ion-list-header>
+    <ion-item>
+      <ion-icon name="ios-flame-outline" item-left></ion-icon>
+      <a (click)="goTo('https://firetask.io')">Try out our classic version</a>
+    </ion-item>
+
+  </ion-list>
+
+</ion-content>
