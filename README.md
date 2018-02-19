@@ -49,9 +49,14 @@
 <img src="https://i.imgur.com/4NeWt3r.png" alt="Ionic Firebase Todo App" />
 
 
+# Changelog
+
+There is a [changelog available here](https://github.com/stewwan/firetask-lite/blob/master/CHANGELOG.md)
+
+
 # Contributting
 
-PR's are always welcome. Please check out the [contributing](https://github.com/stewwan/firetask-lite/blob/master/CONTRIBUTING.md) guideline.
+PR's are always welcome. Please check out the [contributing](https://github.com/stewwan/firetask-lite/blob/master/CONTRIBUTING.md) guideline
 
 # Store
 
