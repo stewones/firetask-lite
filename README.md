@@ -35,7 +35,16 @@
 - [x] Ionic pro
 - [x] Ionic live deploy
 - [x] Firebase database
-- [x] Firebase analytics    
+- [x] Firebase analytics 
+
+# Use case
+
+- create todo
+- remove todo
+- edit todo
+- check a todo
+- filter todos
+- clean checked todos
 
 <img src="https://i.imgur.com/4NeWt3r.png" alt="Ionic Firebase Todo App" />
 
