@@ -37,7 +37,7 @@
 - [x] Firebase database
 - [x] Firebase analytics    
 
-<img src="https://i.imgur.com/ncddN7W.png" alt="Ionic Firebase Todo App" style="max-width: 200px"/>
+<img src="https://i.imgur.com/4NeWt3r.png" alt="Ionic Firebase Todo App" />
 
 
 # Contributting
